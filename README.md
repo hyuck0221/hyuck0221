@@ -70,6 +70,5 @@
 
 ## 📈 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyuck0221&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyuck0221&theme=radical" />
 </div>
