@@ -43,8 +43,6 @@
 | :--- | :--- | :--- |
 | **[universe](https://github.com/hyuck0221/universe)** | 일상생활 속 유용한 도구들을 한곳에 모은 웹 서비스입니다. | [ushimverse.com](https://ushimverse.com) |
 | **[apisis](https://github.com/hyuck0221/apisis)** | OpenAPI 통합 솔루션으로, 편리한 API Key 관리 및 제공을 목표로 합니다. | [apisis.dev](https://apisis.dev) |
-| **[ascii-art](https://github.com/hyuck0221/ascii-art)** | 이미지를 텍스트 기반의 아스키 아트로 변환해주는 웹 서비스입니다. | - |
-| **[human-captcha](https://github.com/hyuck0221/human-captcha)** | 봇이 아닌 사람이 직접 검증하고 판단하는 방식의 Captcha 서비스입니다. | [captcha.hspace.site](https://captcha.hspace.site) |
 
 <br/>
 
@@ -63,6 +61,15 @@
 | Project | Detailed Description | Link |
 | :--- | :--- | :--- |
 | **[callIt](https://github.com/hyuck0221/callIt)** | 변수명 작명 시간을 단축시켜주는 Jetbrains IDE 전용 플러그인입니다. | [Jetbrains Plugin](https://plugins.jetbrains.com/plugin/29428-callit) |
+
+<br/>
+
+### 🛝 Playgrounds
+| Project | Detailed Description | Link |
+| :--- | :--- | :--- |
+| **[payday](https://github.com/hyuck0221/payday)** | 월급날 카운트다운 웹서비스입니다. | [payday.hspace.site](payday.hspace.site) |
+| **[human-captcha](https://github.com/hyuck0221/human-captcha)** | 봇이 아닌 사람이 직접 검증하고 판단하는 방식의 Captcha 서비스입니다. | [captcha.hspace.site](https://captcha.hspace.site) |
+| **[ascii-art](https://github.com/hyuck0221/ascii-art)** | 이미지를 텍스트 기반의 아스키 아트로 변환해주는 웹 서비스입니다. | - |
 
 </div>
 
