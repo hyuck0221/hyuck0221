@@ -17,12 +17,11 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/ktor-087CFA?style=flat-square&logo=ktor&logoColor=white"/>
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mysql-003545?style=flat-square&logo=MySql&logoColor=white"/>
   <img src="https://img.shields.io/badge/mariadb-092E20?style=flat-square&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/redis-FF4438?style=flat-square&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/aws-ff9900?style=flat-square&logo=aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/googlecloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
