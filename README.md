@@ -48,10 +48,9 @@
 ### 📦 Libraries & Frameworks
 | Project | Detailed Description | Link |
 | :--- | :--- | :--- |
-| **[springboot-apilog](https://github.com/hyuck0221/springboot-apilog)** | SpringBoot 애플리케이션의 API 호출 로그를 효율적으로 수집하는 라이브러리입니다. | - |
-| **[apilog-view](https://github.com/hyuck0221/apilog-view)** | apilog 라이브러리로 수집된 로그 데이터를 한눈에 확인할 수 있는 대시보드 웹페이지입니다. | [apilog.hspace.site](https://apilog.hspace.site) |
+| **[spring-api-assist](https://github.com/hyuck0221/spring-api-assist)** | SpringBoot 애플리케이션의 API 관리 도구를 제공하는 라이브러리입니다. | - |
+| **[api-assist-view](https://github.com/hyuck0221/api-assist-view)** | api assist 라이브러리로 수집된 데이터들을 확인할 수 있는 대시보드 웹페이지입니다. | [apiassist.hspace.site](https://apiassist.hspace.site) |
 | **[kemi](https://github.com/hyuck0221/kemi)** | Kotlin 환경에서 Google Gemini AI를 손쉽게 사용할 수 있도록 돕는 라이브러리입니다. | - |
-| **[swagger-mcp-server](https://github.com/hyuck0221/swagger-mcp-server)** | 기존 Swagger API Spec을 AI 에이전트용 MCP(Model Context Protocol)로 변환하여 제공합니다. | - |
 | **[kotlin-utils](https://github.com/hyuck0221/kotlin-utils)** | Kotlin 개발 시 반복되는 로직을 줄여주는 공통 유틸리티 모음입니다. | - |
 
 <br/>
