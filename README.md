@@ -66,6 +66,8 @@
 | Project | Detailed Description | Link |
 | :--- | :--- | :--- |
 | **[payday](https://github.com/hyuck0221/payday)** | 월급날 카운트다운 웹서비스입니다. | [payday.hspace.site](payday.hspace.site) |
+| **[travel-plan](https://github.com/hyuck0221/travel-plan)** | 한 화면에서 일정을 관리하고 링크로 쉽게 공유하는 서비스입니다. | [https://travel.hspace.site](https://travel.hspace.site) |
+| **[random-roadmap](https://github.com/hyuck0221/random-roadmap)** | 랜덤으로 뜨는 로드맵을 보고 위치는 맞추는 웹게임입니다. | [https://random-map.hspace.site](https://random-map.hspace.site) |
 | **[human-captcha](https://github.com/hyuck0221/human-captcha)** | 봇이 아닌 사람이 직접 검증하고 판단하는 방식의 Captcha 서비스입니다. | [captcha.hspace.site](https://captcha.hspace.site) |
 | **[ascii-art](https://github.com/hyuck0221/ascii-art)** | 이미지를 텍스트 기반의 아스키 아트로 변환해주는 웹 서비스입니다. | - |
 
